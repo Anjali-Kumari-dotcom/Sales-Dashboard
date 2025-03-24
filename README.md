@@ -40,13 +40,7 @@ Technologies Used
 
 Power BI / Tableau (for data visualization)
 
-Python / Pandas (for data processing, if applicable)
-
-SQL (for data extraction and transformation)
-
 Excel / CSV (as data sources)
-
-Usage
 
 Clone the repository:
 
@@ -78,13 +72,6 @@ Improved user interactivity with drill-down options.
 
 Enhanced mobile-friendly dashboard design.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Author
-
-Your NameLinkedIn: Your LinkedIn ProfileGitHub: Your GitHub Profile
 
 
 
