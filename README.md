@@ -42,14 +42,6 @@ Power BI / Tableau (for data visualization)
 
 Excel / CSV (as data sources)
 
-Clone the repository:
-
-git clone https://github.com/yourusername/ecommerce-sales-dashboard.git
-
-Open the dashboard file in Power BI or Tableau.
-
-Apply filters and explore various insights to analyze business performance.
-
 Insights & Business Value
 
 Identifies top-performing states and customers.
