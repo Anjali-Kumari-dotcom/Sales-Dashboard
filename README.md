@@ -1,68 +1,84 @@
-ECOMMERCE SALES DASHBOARD
 
-Overview
+## Ecommrce Sales Dashboard
 
-This project is an interactive E-commerce Sales Dashboard designed to visualize key sales metrics, customer purchasing patterns, and business performance trends. The dashboard provides insights into sales revenue, profit margins, payment modes, product categories, and regional performance.
+## Overview
 
-Features
+This ECommerce Sales Dashboard provides a comprehensive visualization of sales data, giving insights into key performance metrics, customer behavior, and business trends. The dashboard is designed to help businesses track revenue, profit, and sales distribution across various dimensions such as state, customer, product categories, and payment modes.
 
-Key Metrics
+## Key Metrics
 
-Total Sales (438K) – The overall revenue generated.
+The dashboard includes the following key performance indicators (KPIs):
 
-Total Quantity Sold (5615) – The total number of items sold.
+Sum of Amount: Total revenue generated (438K).
 
-Total Profit (37K) – The net profit earned.
+Sum of Quantity: Total number of units sold (5615).
 
-Average Order Value (121K) – The average value of each customer transaction.
+Sum of Profit: Overall profit generated (37K).
 
-Visualizations
+Sum of Average Order Value (AOV): The average value of each order (121K).
 
-Sales by State – A bar chart displaying the revenue contribution from different states.
+## Dashboard Components
 
-Sales by Customer Name – A bar chart highlighting top customers based on total purchase amount.
+  1. Sales by State
 
-Sales Quantity by Payment Mode – A pie chart showing the distribution of purchases made via different payment methods (COD, UPI, Debit Card, Credit Card, and EMI).
+Displays the sum of sales amount by different states.
 
-Sales Quantity by Category – A pie chart representing sales volume across different product categories (Clothing, Electronics, and Furniture).
+Maharashtra has the highest sales, followed by Madhya Pradesh and Uttar Pradesh.
 
-Profit by Month – A bar chart visualizing monthly profit trends.
+2. Sales by Customer Name
 
-Profit by Sub-Category – A bar chart showing the profit contribution of different product sub-categories (Printers, Bookcases, Sarees, Accessories, and Tables).
+Identifies top customers contributing to sales revenue.
 
-Interactive Elements
+Harivansh and Madhav are the top customers in terms of amount spent.
 
-Quarterly Filter – Allows users to filter data by Q1, Q2, Q3, or Q4.
+3. Sales by Payment Mode
 
-General Filter – Enables users to filter sales data based on specific criteria.
+Visualizes the distribution of payment methods used by customers.
 
-Technologies Used
+Cash on Delivery (COD) accounts for the highest share (44%), followed by UPI (21%).
 
-Power BI / Tableau (for data visualization)
+4. Sales by Product Category
 
-Excel / CSV (as data sources)
+Represents the percentage distribution of product categories sold.
 
-Insights & Business Value
+Clothing leads with 63%, followed by Electronics (21%) and Furniture (17%).
 
-Identifies top-performing states and customers.
+5. Profit by Month
 
-Highlights preferred payment methods to improve checkout experiences.
+Highlights the monthly profitability trend.
 
-Tracks seasonal profit fluctuations to optimize pricing and inventory.
+December has the highest profit, while some months like June and August show negative or low profits.
 
-Determines the most profitable product categories and sub-categories.
+6. Profit by Sub-Category
 
-Enables data-driven decision-making for marketing and operations.
+Provides insights into which product sub-categories are driving the most profit.
 
-Future Enhancements
+Printers generate the highest profit, followed by Bookcases and Accessories.
 
-Integration with live databases for real-time data updates.
+## Insights & Business Implications
 
-Addition of predictive analytics for sales forecasting.
+High reliance on COD: Since COD accounts for 44% of sales, businesses should optimize cash collection and fraud prevention measures.
 
-Improved user interactivity with drill-down options.
+Seasonal sales spikes: Higher profits in December indicate holiday season impact. Running targeted promotions during peak months can maximize revenue.
 
-Enhanced mobile-friendly dashboard design.
+Category performance: Clothing dominates sales volume but may not be the highest in profit margin. Further analysis is needed to optimize product mix.
+
+Customer segmentation: Identifying high-value customers (like Harivansh and Madhav) can help tailor loyalty programs to drive repeat business.
+
+State-wise performance: Maharashtra and Madhya Pradesh contribute significantly to sales, so targeted marketing in high-performing states could enhance growth.
+
+## Technologies Used
+
+Data Visualization Tool: Power BI 
+
+Data Source: eCommerce transaction data
+
+
+
+
+
+
+
 
 
 
